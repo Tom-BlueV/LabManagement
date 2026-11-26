@@ -1,4 +1,4 @@
-# Lab Control
+# Lab Control (测试开发阶段，将遵循AGPL协议进行开源)
 实验与资源管理、备份
 
 # 用户统一管理
